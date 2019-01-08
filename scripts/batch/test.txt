@@ -1,4 +1,1 @@
-Open sftp.pbm-draftbox.fr
-User pbmdraftsp-be
-8SOMT1LMt3
-echo teeeeeest
+TEEEEEEEEEEEEEEEST

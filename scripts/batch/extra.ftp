@@ -1,4 +1,8 @@
 open sftp.pbm-draftbox.fr
 pbmdraftsp-be
 8SOMT1LMt3
-put test.txt
+mkdir 444541233345
+cd 444541233345
+put ferraillage.pdf
+put coffrage.pdf
+quit
