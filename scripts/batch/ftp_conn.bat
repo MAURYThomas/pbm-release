@@ -25,8 +25,6 @@ echo quit>>extra.ftp
 REM if %ERRORLEVEL% == 0 (goto END) else (GOTO ERROR)
 
 :ERROR
-echo Something went wrong
+echo Something went WRONG
 
 ftp -s:extra.ftp
-
-REM :END
