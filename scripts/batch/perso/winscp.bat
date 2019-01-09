@@ -1,8 +1,8 @@
 @echo off
 
-echo open sftp.pbm-draftbox.fr>extra.ftp
-echo pbmdraftsp-be>>extra.ftp
-echo 8SOMT1LMt3>>extra.ftp
+echo open sftp.pbm-draftbox.fr>winscp.txt
+echo pbmdraftsp-be>>winscp.txt
+echo 8SOMT1LMt3>>winscp.txt
 
 if [%1]=="" (GOTO ERROR)
 if [%2]=="" (GOTO ERROR) else (GOTO VARIABLES)
@@ -18,16 +18,16 @@ if %ERRORLEVEL% == 0 (GOTO CREATEDIR) else (GOTO ERROR)
 
 REM Creation du repertoire et transfert des fichiers
 :CREATEDIR
-echo mkdir %NUMCOMMANDE%>>extra.ftp
-echo cd %NUMCOMMANDE%>>extra.ftp
+echo mkdir %NUMCOMMANDE%>>winscp.txt
+echo cd %NUMCOMMANDE%>>winscp.txt
 if %ERRORLEVEL%==1 (GOTO ERROR)
-echo put %FILE1%>>extra.ftp
-echo put %FILE2%>>extra.ftp
-echo quit>>extra.ftp
+echo put %FILE1%>>winscp.txt
+echo put %FILE2%>>winscp.txt
+echo quit>>winscp.txt
 
 
 :LAUNCH
-ftp -s:extra.ftp
+winscp.com /script=winscp.txt /ini=nul
 
 :ERROR
 echo Something went WRONG
