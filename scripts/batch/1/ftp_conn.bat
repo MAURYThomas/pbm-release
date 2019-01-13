@@ -29,7 +29,10 @@ echo quit>>extra.ftp
 :LAUNCH
 ftp -s:extra.ftp
 
+:END
+EXIT /b
+
 :ERROR
 echo Something went WRONG
-echo ERROR LEVEL : %ERRORLEVEL%
+echo ERROR LEVEL = %ERRORLEVEL%
 EXIT /b

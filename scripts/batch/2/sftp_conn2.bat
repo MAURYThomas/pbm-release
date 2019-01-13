@@ -1,0 +1,1 @@
+sftp -i /keys/pri_key -b sftp_conn.bat pbmdraftsp-be@sftp.pbm-draftbox.fr
