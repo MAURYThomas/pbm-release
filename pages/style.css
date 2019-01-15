@@ -1,0 +1,67 @@
+mark
+{
+    font-size: 1em; /* Paragraphes de 14 pixels */
+    font-family : impact, arial, "arial black", sans-serif;
+}
+h1
+{
+    border: 15px green ridge;
+    border-radius: 20px / 10px;
+}
+.mapModel
+{
+    position: absolute;
+    top: 25em;
+    left: 2em;
+}
+
+
+.oasm
+{
+    color:  rgb(0, 170, 0);
+}
+.odsm
+{
+    color: rgb(255, 0, 0);
+}
+.mavm
+{
+    color: rgb(173, 19, 19);
+}
+.wavm
+{
+    color: blue;
+}
+.idsm
+{
+    color: rgb(161, 16, 118);
+}
+.badm
+{
+    color: rgb(20, 218, 198);
+}
+.kasm
+{
+    color: rgb(141, 45, 141)
+}
+.vulm
+{
+    color: yellow;
+}
+
+.oasm, .odsm, .mavm, .wavm, .idsm, .badm, .kasm, .vulm
+{
+    background-color: black;
+}
+
+
+body
+{
+    font-family : arial, "arial black", sans-serif;
+    background-color: black;
+    color: white;
+}
+li
+{
+    color: whitesmoke;
+}

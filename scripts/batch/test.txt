@@ -1,1 +1,0 @@
-try sftp pbmdraftsp-be@sftp.pbm-draftbox.fr

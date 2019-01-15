@@ -1,0 +1,8 @@
+option batch on 
+option confirm off  
+option transfer binary
+
+open pbmdraftsp-be@sftp.pbm-draftbox.fr -hostkey=*
+cd 
+lcd C:\Users\thomas.maury\Documents\PBM\pbm-release\scripts\batch
+
