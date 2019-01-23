@@ -1,0 +1,10 @@
+option batch on
+option confirm off
+option transfer binary
+open pbmdraftsp-be@sftp.pbm-draftbox.fr
+mkdir 110000012
+cd 110000012
+lcd "C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\"
+put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\ferraillage.pdf
+put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\coffrage.pdf
+exit

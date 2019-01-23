@@ -1,0 +1,579 @@
+<VARS><Para SubType="structure" TypeRD="Para"><Info SubType="structure" TypeRD="PARA_Output"><Affaire SubType="base" TypeRD="integer">201803570</Affaire><EtatAff SubType="base" TypeRD="integer">6</EtatAff><Produit SubType="base" TypeRD="integer">894968</Produit><EtatProd SubType="base" TypeRD="integer">15</EtatProd><Bord SubType="base" TypeRD="integer">171225</Bord><EtatBord SubType="base" TypeRD="integer">1</EtatBord></Info><Debug SubType="structure" TypeRD="PARA_Debug"><Debug SubType="base" TypeRD="boolean">False</Debug><PathLog SubType="base" TypeRD="string"></PathLog><Log SubType="list" TypeRD="string[]" ItemListTypeName="string"><string SubType="base" TypeRD="string" pos="0">20181015084306;Début;PBM - APPLICATION ESCALIER 2010;Programme</string><string SubType="base" TypeRD="string" pos="1">20181015084306;Début;Debug;Sous-Programme</string><string SubType="base" TypeRD="string" pos="2">20181015084307;Fin;Debug;Sous-Programme</string><string SubType="base" TypeRD="string" pos="3">20181015084307;Début;LOGGIN;Sous-Programme</string><string SubType="base" TypeRD="string" pos="4">20181015084323;Fin;LOGGIN;Sous-Programme</string><string SubType="base" TypeRD="string" pos="5">20181015084551;Début;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="6">20181015085832;Début;PBM - APPLICATION ESCALIER 2010;Programme</string><string SubType="base" TypeRD="string" pos="7">20181015085833;Début;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="8">20181015085903;Fin;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="9">20181015090209;Début;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="10">20181015090251;Début;ImportExportGC;Sous-Programme</string><string SubType="base" TypeRD="string" pos="11">20181015090305;Fin;ImportExportGC;Sous-Programme</string><string SubType="base" TypeRD="string" pos="12">20181015101106;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="13">20181015101416;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="14">20181015101418;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="15">20181015101744;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="16">20181015101746;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="17">20181015102118;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="18">20181015104359;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="19">20181015104736;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="20">20181015105122;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="21">20181015105159;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="22">20181015105249;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="23">20181015105326;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="24">20181015105349;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="25">20181015105426;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="26">20181015110058;Fin;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="27">20181015145731;Début;AFFAIRE - PRODUIT;Sous-Programme</string><string SubType="base" TypeRD="string" pos="28">20181015145741;Début;ImportExportGC;Sous-Programme</string><string SubType="base" TypeRD="string" pos="29">20181015145800;Fin;ImportExportGC;Sous-Programme</string><string SubType="base" TypeRD="string" pos="30">20181015151834;Début;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="31">20181015151900;Erreur;Escalier Pans Coupes - Recup Encombrement Morceau;Unhandled document type for Bounding box calculation.</string><string SubType="base" TypeRD="string" pos="32">20181015151900;Fin;Generation Document;Sous-Programme</string><string SubType="base" TypeRD="string" pos="33">20181015151900;Erreur;Escalier Pans Coupes - Recup Encombrement Morceau;Unhandled document type for Bounding box calculation.</string><string SubType="base" TypeRD="string" pos="34">20181015151905;Début;Generation Document;Sous-Programme</string></Log><ProgNameParent SubType="base" TypeRD="string" IsEmpty="True"></ProgNameParent><SaveData SubType="base" TypeRD="boolean">True</SaveData><LogEvent SubType="base" TypeRD="boolean">False</LogEvent></Debug><LogEvent SubType="structure" TypeRD="PARA_LogEvent"><Action SubType="base" TypeRD="string" IsEmpty="True"></Action><Libelle SubType="base" TypeRD="string" IsEmpty="True"></Libelle><TimeStamp SubType="base" TypeRD="string" IsEmpty="True"></TimeStamp><Etat SubType="base" TypeRD="string" IsEmpty="True"></Etat><UserLog SubType="base" TypeRD="string" IsEmpty="True"></UserLog><Code SubType="base" TypeRD="string" IsEmpty="True"></Code></LogEvent><Html SubType="structure" TypeRD="PARA_HTML"><HtmlChargement SubType="base" TypeRD="string">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" &gt;
+&lt;head&gt;
+&lt;title&gt;CAP-3D&lt;/title&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color:#dcdde9"&gt;
+     &lt;div align="center" style="z-index: 100; width: 100%;height: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg" style="z-index: 100;  width: 179px;  top: 0px; height: 64px" /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;
+            &lt;span style="font-family: Verdana;color: #0000ff"&gt;
+                &amp;lt;&amp;lt;&amp;lt;En cours de chargement ...&amp;gt;&amp;gt;&amp;gt;
+                &lt;br /&gt;
+                &lt;br /&gt;
+                &lt;img align="middle" src="PBM-WebRessource/Images/Interface_general/patience.gif" style="z-index: 100;  height: 93px" /&gt;&lt;br /&gt;
+            &lt;/span&gt;
+        &lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif" style="z-index: 100; width: 528px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlChargement><HtmlEnCours SubType="base" TypeRD="string">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" &gt;
+&lt;head&gt;
+    &lt;title&gt;CAP-3D&lt;/title&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center" topmargin="0" bgcolor="#ebedf3"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 658px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;&amp;lt;&amp;lt;&amp;lt;
+            Partie de l'application en cours de developpement, vous allez etre redirige vers
+            l'Accueil &amp;gt;&amp;gt;&amp;gt;&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;img align="middle" src="PBM-WebRessource/Images/Interface_general/patience.gif"
+                
+                style="z-index: 100; left: 0px; position: static; top: 0px; height: 93px" /&gt;&lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlEnCours><HtmlAnnulation SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ Annulation&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;
+            &lt;span style="color: #0000ff"&gt;Voulez vous réellement Annuler l'opération en cours ?&lt;br /&gt;
+                &lt;br /&gt;
+                &amp;gt;Si OUI toutes les informations non sauvegardées seront perdues &amp;nbsp; &amp;nbsp;
+                &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;
+                &lt;br /&gt;
+                &amp;gt;Si NON, vous allez etre redirigé vers la page précédente &amp;nbsp; &amp;nbsp; &amp;nbsp;
+                &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+                &lt;br /&gt;
+            &lt;/span&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlAnnulation><HtmlAccueil SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ ACCUEIL&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;&amp;lt;&amp;lt;&amp;lt;
+            Bienvenue dans l'Application de Configuration d'Escalier PBM &amp;gt;&amp;gt;&amp;gt;&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;span style="color: #0000ff"&gt;Veuillez choisir le type d'opération à réaliser&lt;br /&gt;
+            &lt;/span&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlAccueil><HtmlValidationAff SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ Validation Affaire&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 100%; position: static;
+        top: 0px; height: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;Voulez vous
+            valider les informations définies pour 
+            &lt;br /&gt;
+            l&amp;#39;Affaire [NAFF] ?&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlValidationAff><HtmlCAO SubType="base" TypeRD="string">
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3; margin-top:0; "&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100;  width: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg" alt="" style="z-index: 100;  width: 179px;  height: 64px" /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana;color: #0000ff"&gt;
+            Etes vous sure de vouloir lancer la génération des documents ?
+            &lt;br /&gt;
+            (suite à cette validation la génération des documents ne pourra plus etre arretée) 
+            &lt;br /&gt;
+            &lt;br /&gt;
+            Pour modifier les parametres de génération de document, cliquez sur le bouton &amp;quot;Option&amp;quot;
+        &lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;img  src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif" alt="" style="vertical-align:top; width: 528px; height: 196px;text-align: center" /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;</HtmlCAO><HtmlSuccess SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ Succès&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="../Images/Interface_general/Logo_PBM.jpg"
+            
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;
+            &lt;span style="color: #0000ff"&gt;Les documents liés au produit ont été générés avec Succès
+                &lt;br /&gt;
+                &lt;br /&gt;
+                Les données sont disponibles dans le dossier :&lt;br /&gt;
+                [DossierProduit]&lt;br /&gt;
+            &lt;/span&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="../Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlSuccess><HtmlTraitement SubType="base" TypeRD="string">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" &gt;
+&lt;head&gt;
+&lt;title&gt;CAP-3D \ Traitement&lt;/title&gt;
+    &lt;style type="text/css"&gt;
+        .style1
+        {
+            margin-left: 41px;
+            margin-right: 0px;
+        }
+        .Info
+        {
+            text-align: left;
+            font-size:small;
+            font-style: normal;
+            width: 300px;
+            font-family:Verdana
+        }
+        .Etat
+        {
+            text-align: center;
+            font-size:small;
+            font-style: normal;
+            width: 180px;
+            font-family:Verdana
+        }
+        .Img
+        {
+            text-align: Left;
+            width: 50px;
+            height:35px
+                    }
+        .Progress
+        {
+            text-align: center;
+            font-size:small;
+            font-style: normal;
+            font-family:Verdana;
+            width: 100%;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0" bgcolor="#dcdde9"&gt;
+    &amp;nbsp;
+    &lt;div align="center" style=" width: 100%;height: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img align="middle" src="PBM-WebRessource/Images/Interface_general/patience.gif" style="height: 65px" /&gt;
+            
+            &lt;hr /&gt;
+
+&lt;table class="style1" align="center" &gt;
+                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Récupération des informations&lt;/td&gt;
+                    &lt;td class="Etat"&gt;#ETAT1#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG1#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Modélisation des sections&lt;/td&gt;
+                    &lt;td class="Etat" &gt;#ETAT2#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG2#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Assemblage des sections&lt;/td&gt;
+                    &lt;td class="Etat" &gt;#ETAT3#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG3#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Génération du plan de coffrage&lt;/td&gt;
+                    &lt;td class="Etat" &gt;#ETAT4#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG4#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Génération du plan de ferraillage&lt;/td&gt;
+                    &lt;td class="Etat" &gt;#ETAT5#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG5#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+&lt;!--                &lt;tr&gt;
+                    &lt;td class="Info"&gt;Génération du plan d&amp;#39;élévation&lt;/td&gt;
+                    &lt;td class="Etat" &gt;#ETAT6#&lt;/td&gt;
+                    &lt;td class="Img"&gt;&lt;img alt="" src="#IMG6#" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;--&gt;
+    &lt;/table&gt;
+    &lt;hr /&gt;
+            &lt;table class="Progress"&gt;
+                &lt;tr&gt;
+                    &lt;td style="text-align: center;"&gt;
+            &amp;nbsp;Temps consommé :&amp;nbsp;&amp;nbsp;&amp;nbsp; - Progression : #Avancement#&lt;/td&gt;
+                &lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;hr /&gt;
+            &lt;br/&gt;
+        
+    &lt;/div&gt;
+
+    &lt;/span&gt;&lt;/span&gt;&amp;nbsp;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlTraitement><HtmlSAVE SubType="base" TypeRD="string">
+&lt;head&gt;
+    &lt;style type="text/css"&gt;
+        .style1
+        {
+            font-size: x-small;
+        }
+        .style2
+        {
+            text-decoration: underline;
+            color: #FF0000;
+        }
+        .style3
+        {
+            color: #FF0000;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body style="width: 691px; height: 421px;vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px;  position: static;
+        top: 0px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;Voulez vous
+            enregistrer les données du produit configuré&lt;span style="color: #0000ff"&gt; ?&lt;br /&gt;
+            &lt;br /&gt;
+                &lt;/span&gt;
+        &lt;/span&gt;&lt;/strong&gt;
+            &lt;span class="style1"&gt;&lt;span class="style2"&gt;&lt;strong&gt;Attention :&lt;/strong&gt;&lt;/span&gt;&lt;span style="color: #0000ff"&gt;&lt;span class="style3"&gt; l&amp;#39;enregistrement des données va changer le statut de ce repere
+            &lt;br /&gt;
+            et oblige a regenerer les documents associés !!&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color: #0000ff"&gt;&lt;strong&gt;&lt;br /&gt;
+                &lt;/strong&gt;
+        &lt;strong&gt;
+            &lt;br /&gt;
+            &lt;/strong&gt;
+        &lt;/span&gt;&lt;/span&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;!--&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="fr"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ ACCUEIL&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: transparent;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="../RDWebPlayer/Images/Interface_general/Logo_PBM.jpg"
+            style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;Voulez vous
+            générer les plans 2D&lt;span style="color: #0000ff"&gt; ?&lt;/span&gt;&lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="../RDWebPlayer/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;--&gt;</HtmlSAVE><HtmlSAVECAO SubType="base" TypeRD="string">
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;width: 691px; height: 421px;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;Voulez vous
+            enregistrer les données du produit configuré&lt;span style="color: #0000ff"&gt; ?&lt;br /&gt;
+                &lt;br /&gt;
+                Les données doivent forcément etre enregistrées
+                &lt;br /&gt;
+                pour pouvoir générer les documents associés&lt;/span&gt;&lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;!--&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="fr"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ ACCUEIL&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: transparent;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 691px; position: static;
+        top: 0px; height: 421px; background-color: transparent; text-align: center"&gt;
+        &lt;img src="../RDWebPlayer/Images/Interface_general/Logo_PBM.jpg"
+            style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: #0000ff"&gt;Voulez vous
+            générer les plans 2D&lt;span style="color: #0000ff"&gt; ?&lt;/span&gt;&lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="../RDWebPlayer/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;--&gt;</HtmlSAVECAO><HtmlCAOEchec SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ Validation Affaire&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 100%; position: static;
+        top: 0px; height: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: red"&gt;&lt;br&gt;!!! L'application a rencontrée une erreur lors de la generation des documents !!!
+            &lt;/br&gt;
+            &lt;br&gt;
+            Vous allez etre redirigé vers la page de synthese du produit...
+            &lt;/br&gt;
+            &lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlCAOEchec><HtmlCAOSucces SubType="base" TypeRD="string">&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Language" content="it"&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=windows-1252"&gt;
+&lt;title&gt;CAP-3D \ Validation Affaire&lt;/title&gt;
+&lt;script language="javascript" src="../JScript/RDWebForm.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body style="vertical-align: top; text-align: center; background-color: #ebedf3;" topmargin="0"&gt;
+    &amp;nbsp;
+        &lt;div align="center" style="z-index: 100; left: 0px; width: 100%; position: static;
+        top: 0px; height: 100%; background-color: transparent; text-align: center"&gt;
+        &lt;img src="PBM-WebRessource/Images/Interface_general/Logo_PBM.jpg"
+            
+                style="z-index: 100; left: 0px; width: 179px; position: static; top: 0px; height: 64px" /&gt;&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;strong&gt;&lt;span style="font-family: Verdana"&gt;&lt;span style="color: blue"&gt;&lt;br&gt; L'application a generée les documents avec succes.
+            &lt;/br&gt;
+            &lt;br&gt;
+            Vous allez etre redirigé vers la page de synthese du produit...
+            &lt;/br&gt;
+            &lt;br /&gt;
+            &lt;br /&gt;
+        &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;
+    &lt;img align="top" src="PBM-WebRessource/Images/Interface_general/PBM_ACCUEIL.gif"
+        style="z-index: 100; left: 132px; width: 528px; position: static; top: 121px; height: 196px;
+        text-align: center" /&gt;&lt;br /&gt;
+        &lt;span style="color: #0000ff; font-family: Verdana"&gt;&lt;strong&gt;
+            &lt;br /&gt;
+        &lt;/strong&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</HtmlCAOSucces></Html><Path SubType="structure" TypeRD="PARA_Path"><RootPath SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\</RootPath><PathIni SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Parametres.ini</PathIni><PathSource SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\</PathSource><FolderHtml SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\WebPlayer\PBM-WebRessource\Templates\InterfaceMsg\</FolderHtml><BddType SubType="base" TypeRD="string">SQL</BddType><PathBddExterne SubType="base" TypeRD="string">Provider=sqloledb;Data Source=SRV-SPVMSQL\SOLIDEDGE_SQL ;Initial Catalog=PBM-ApplicationEscalier2010_ReplicationMaster ;User Id=AdminEscalier;Password=escalier2010;</PathBddExterne><PathBddGC SubType="base" TypeRD="string">Provider=sqloledb;Data Source=srv-spvmprod2k8 ;Initial Catalog=DBGCPRD ;User Id=abisse;Password=essiba;</PathBddGC><OutputFolder SubType="base" TypeRD="string">\\srv-spvmsql\Data_Etudes\Commandes\</OutputFolder><ArchiveFolderAffaire SubType="base" TypeRD="string">\\srv-spvmsql\Data_Etudes\Commandes\</ArchiveFolderAffaire><ArchiveFolderDevis SubType="base" TypeRD="string">\\srv-spvmsql\Data_Etudes\Devis\</ArchiveFolderDevis><OutputFolderSizeMaxi SubType="base" TypeRD="integer">400</OutputFolderSizeMaxi><OutputFolderSizeMaxiMail SubType="base" TypeRD="string">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" &gt;
+&lt;head&gt;
+    &lt;title&gt;CAP-3D&lt;/title&gt;
+    &lt;style type="text/css"&gt;
+
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	}
+ table.MsoNormalTable
+	{font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+        }
+ p.MsoNormal
+	{margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	        margin-left: 0cm;
+            margin-right: 0cm;
+            margin-top: 0cm;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+    &lt;p&gt;
+        &lt;b&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,&amp;quot;sans-serif&amp;quot;;color:#000066"&gt;L&amp;#39;espace de stockage des commandes issues de l&amp;#39;Application Escalier est presque plein.&lt;/span&gt;&lt;/b&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+    &lt;table border="0" cellpadding="0" class="MsoNormalTable" style="mso-cellspacing:1.5pt;
+ mso-yfti-tbllook:1184"&gt;
+        &lt;tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"&gt;
+            &lt;td style="width: #SizeBarConso#pt; border: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; mso-border-bottom-alt: solid black .75pt; background: #FFCC00; padding: .75pt .75pt .75pt .75pt" width="162"&gt;
+                &lt;p class="MsoNormal"&gt;
+                    &lt;span style="font-size:10.0pt;font-family:&amp;quot;Tahoma&amp;quot;,&amp;quot;sans-serif&amp;quot;;
+  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;color:black"&gt;#Size# Go&lt;/span&gt;&lt;span style="mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td style="width: #SizeBarRestant#pt; border: solid black 1.0pt; border-left: none; mso-border-top-alt: solid black .75pt; mso-border-bottom-alt: solid black .75pt; mso-border-right-alt: solid black .75pt; background: white; padding: .75pt .75pt .75pt .75pt" width="38"&gt;
+                &lt;p class="MsoNormal"&gt;
+                    &lt;span style="mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;"&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td style="padding:.75pt .75pt .75pt .75pt"&gt;
+                &lt;p class="MsoNormal"&gt;
+                    &lt;b&gt;&lt;span style="font-size:10.0pt;font-family:&amp;quot;Tahoma&amp;quot;,&amp;quot;sans-serif&amp;quot;;
+  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;color:black"&gt;#SizeMax#&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:10.0pt;font-family:&amp;quot;Tahoma&amp;quot;,&amp;quot;sans-serif&amp;quot;;mso-fareast-font-family:
+  &amp;quot;Times New Roman&amp;quot;;color:black"&gt;Go&lt;/span&gt;&lt;span style="mso-fareast-font-family:
+  &amp;quot;Times New Roman&amp;quot;"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;/br&gt;
+    &lt;span style="font-size:10.0pt;font-family:&amp;quot;Tahoma&amp;quot;,&amp;quot;sans-serif&amp;quot;;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;color:black;mso-ansi-language:FR;
+mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;Réduisez sa taille en archivant les Commandes obsoletes et les anciens indices de révisions .&lt;/span&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</OutputFolderSizeMaxiMail><FolderModele SubType="base" TypeRD="string">#MISSING#</FolderModele><FolderLiaison SubType="base" TypeRD="string">#MISSING#</FolderLiaison><Cartouche SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\CAO\Cartouche.dft</Cartouche><DocConsigneLevage SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Document\GENCSE02 Consigne levage Version 5.pdf</DocConsigneLevage><DocConsigneDechargement SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Document\GEN CSE03 Consigne dechargement.pdf</DocConsigneDechargement><DocConsigneLevageHelico SubType="base" TypeRD="string" IsEmpty="True"></DocConsigneLevageHelico><PDFFolder SubType="base" TypeRD="string">C:\PDFCreate\</PDFFolder></Path><Mail SubType="structure" TypeRD="PARA_Mail"><SmtpServer SubType="base" TypeRD="string">exc.pbm.fr</SmtpServer><MailFolder SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Mail\</MailFolder><MailSignature SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Mail\Signatures Mail\</MailSignature><MailSignatureStd SubType="base" TypeRD="string">SignatureStandard.htm</MailSignatureStd><MailBody SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\Mail\BodyMail.htm</MailBody></Mail><User SubType="structure" TypeRD="PARA_User"><MsgUser SubType="base" TypeRD="string"></MsgUser><Type SubType="base" TypeRD="string">2</Type><ID_User SubType="base" TypeRD="integer">101</ID_User><Login SubType="base" TypeRD="string">marina.galabrun</Login><Password SubType="base" TypeRD="string">margal2017*</Password><PasswordConfirm SubType="base" TypeRD="string" IsEmpty="True"></PasswordConfirm><Nom SubType="base" TypeRD="string">GALABRUN</Nom><Prenom SubType="base" TypeRD="string">Marina</Prenom><Site SubType="base" TypeRD="string">BE-Sud</Site><Adr1 SubType="base" TypeRD="string">PBM Services</Adr1><Adr2 SubType="base" TypeRD="string">97 allée Alexandre Borodine - Bat Cèdre 2</Adr2><CP SubType="base" TypeRD="string">69800</CP><Ville SubType="base" TypeRD="string">SAINT-PRIEST</Ville><Mail SubType="base" TypeRD="string">marina.galabrun@pbm.fr</Mail><Signature SubType="base" TypeRD="string"></Signature><Tel SubType="base" TypeRD="string">04 26 59 87 04</Tel><Port SubType="base" TypeRD="string"></Port><Fax SubType="base" TypeRD="string"></Fax><Fonction SubType="base" TypeRD="string">Dessinatrice TP</Fonction><Invite SubType="base" TypeRD="boolean" IsEmpty="True"></Invite><LogginWindows SubType="base" TypeRD="boolean" IsEmpty="True"></LogginWindows><Sustitut SubType="base" TypeRD="boolean">False</Sustitut><SustitutUser SubType="base" TypeRD="integer">101</SustitutUser><LoginMode SubType="base" TypeRD="integer">2</LoginMode></User><Error SubType="structure" TypeRD="PARA_Error"><Progress SubType="base" TypeRD="string">Coffrage: Enregistrement des informations produit</Progress><MemXml SubType="base" TypeRD="string"></MemXml></Error><Mode SubType="structure" TypeRD="PARA_Mode"><RDC SubType="base" TypeRD="string">PLAYER</RDC><Client SubType="base" TypeRD="boolean">False</Client><Devis SubType="base" TypeRD="boolean">False</Devis></Mode><SQL SubType="structure" TypeRD="PARA_SQL"><SRV SubType="base" TypeRD="string">SRV-SPVMSQL\SOLIDEDGE_SQL</SRV><LOGIN SubType="base" TypeRD="string">AdminEscalier</LOGIN><PWD SubType="base" TypeRD="string">escalier2010</PWD><PWDOLD SubType="base" TypeRD="string">escalier2010</PWDOLD><BASE SubType="base" TypeRD="string">PBM-ApplicationEscalier2010_ReplicationMaster</BASE><ROOTBdD SubType="base" TypeRD="string">\\srv-spvmsql\Data_Escalier\Source\BdD</ROOTBdD><FILE SubType="base" TypeRD="string" IsEmpty="True"></FILE></SQL><Progress SubType="structure" TypeRD="PARA_Progress"><ProgressMode SubType="base" TypeRD="boolean">True</ProgressMode><AvancementMode SubType="base" TypeRD="boolean">True</AvancementMode></Progress><Interface SubType="structure" TypeRD="PARA_Interface"><ModeConfiguration SubType="base" TypeRD="string">1</ModeConfiguration><ModeLogin SubType="base" TypeRD="string">0</ModeLogin><ConfigCaracteristique SubType="base" TypeRD="string">Source\WebPlayer\PBM-WebRessource\Templates\InterfaceProduit\ConfigInit_Caracteristique.txt</ConfigCaracteristique><ConfigDataCaracteristique SubType="base" TypeRD="string">{"ImgLrgPass":"#ImgLrgPass#","Orientation":[0,360],"LrgDepart":[1,#LrgMax#],"LrgArrivee":[1,#LrgMax#],"LrgPassA":[1,#LrgMax#],"LrgPassB":[1,#LrgMax#],"LrgPassC":[1,#LrgMax#],"LrgPassD":[1,#LrgMax#],"HtMarche1":[12.9,#HtMarche1#],"Giron":[1,50], "MarcheDebut":[#MarcheDebut#,200],"CondExtDebA":[#CondExtDebA#,200], "CondExtDebB":[#CondExtDebB#,200], "CondExtDebC":[#CondExtDebC#,200] ,"CondExtDebD":[#CondExtDebD#,200] ,"CondExtDebE":[#CondExtDebE#,200] ,"CondExtFinA":[#CondExtFinA#,200] ,"CondExtFinB":[#CondExtFinB#,200] ,"CondExtFinC":[#CondExtFinC#,200] ,"CondExtFinD":[#CondExtFinD#,200] ,"CondExtFinE":[#CondExtFinE#,200],"MarcheSection1Deb":[1,#MarcheSection1Deb#],"MarcheSection1Fin":[1,#MarcheSection1Fin#],"MarcheSection2Deb":[1,#MarcheSection2Deb#],"MarcheSection2Fin":[1,#MarcheSection2Fin#],"MarcheSection3Deb":[1,#MarcheSection3Deb#],"MarcheSection3Fin":[1,#MarcheSection3Fin#] ,"hiddenPanels":["Panel_JointMM","Panel_HtMarche1","Panel_PalierBas","Panel_PalierHaut","Panel_LrgPassDroitAlert","Panel_LrgPassHelicoAlert","Panel_RiveCintrees","Panel_RiveDroitLrgFin","Panel_RiveDroitEtatRiveMeth","Panel_Ferr","Panel_Fractionnable","Panel_Fraction","Panel_NbMarcheFab","Panel_Rotation","Panel_Paillasse","Panel_LrgPassA","Panel_LrgPassB","Panel_LrgPassC","Panel_LrgPassD","Panel_MarcheDebut","Panel_CondExtDepart","Panel_CondExtArrivee","Panel_CondExtDebA","Panel_CondExtDebB","Panel_CondExtDebC","Panel_CondExtDebD","Panel_CondExtDebE","Panel_CondExtFinA","Panel_CondExtFinB","Panel_CondExtFinC","Panel_CondExtFinD","Panel_CondExtFinE","Panel_Portee","Panel_RiveDroit","Panel_RiveHelico","Panel_ContourCirculaire","Panel_HelicoSpeDep","Panel_HelicoSpeFin","Panel_HtMarche","Panel_HtFut","Panel_IDMOULE","Panel_InfoMoule","Panel_Geometrie","Panel_Cage","Panel_NezMarche","PanelC"],"disabledPanels":["PanelA","PanelB","PanelC"],"hiddenElements":["HtMarcheBtn","NbMarcheBtn","GironBtn","ElementA","ElementB"],"disabledElements":["RotationDroite","RotationGauche","ElementC"]}</ConfigDataCaracteristique><ConfigOption SubType="base" TypeRD="string">Source\WebPlayer\PBM-WebRessource\Templates\InterfaceProduit\ConfigInit_Option.txt</ConfigOption><ConfigDataOption SubType="base" TypeRD="string">{"hiddenPanels":["Panel_MarcheTradi","Panel_ADX","Panel_Renfort","MarcheDeb3D","MarcheFin3D","Panel_Liaison","Panel_OptionDroit","Panel_PanCoupesDroit","Panel_PansCoupesHelico","PanelC"],
+"disabledPanels":["PanelA","PanelB","PanelC"],"hiddenElements":["ElementA","ElementB"],"disabledElements":["ElementA","ElementB","ElementC"]}</ConfigDataOption><ConfigOptionCAO SubType="base" TypeRD="string">Source\WebPlayer\PBM-WebRessource\Templates\InterfaceProduit\ConfigInit_OptionCAO.txt</ConfigOptionCAO><ConfigDataOptionCAO SubType="base" TypeRD="string">{"hiddenPanels":["ElementA","ElementB","ElementC"],
+"disabledPanels":["PanelA","PanelB","PanelC"],"hiddenElements":["ElementA","ElementB"],"disabledElements":["ElementA","ElementB","ElementC"]}</ConfigDataOptionCAO><ConfigLogin SubType="base" TypeRD="string">Source\WebPlayer\PBM-WebRessource\Templates\InterfaceLogin\ConfigInit_Login.txt</ConfigLogin><ConfigDataLogin SubType="base" TypeRD="string">{"MsgUser":"#MsgUser#","Windows":"#Windows#","Invite":"#Invite#","Manuel":"#Manuel#",
+"hiddenPanels":["ModeInvite","ModeWindows","ModeManuel","Panel_Sustitut","PanelC"],
+"disabledPanels":["Panel_Sustitut","PanelA","PanelB","PanelC"],
+"hiddenElements":["ElementA","ElementB"],
+"disabledElements":["SustitutUser","ElementB","ElementC"]}</ConfigDataLogin><ConfigLostPwd SubType="base" TypeRD="string">Source\WebPlayer\PBM-WebRessource\Templates\InterfaceLogin\ConfigInit_LostPwd.txt</ConfigLostPwd><ConfigDataLostPwd SubType="base" TypeRD="string">{"MsgVerif":"#MsgVerif#",
+"hiddenPanels":["PanelC"],
+"disabledPanels":["PanelA","PanelB","PanelC"],
+"hiddenElements":["ElementA","ElementB"],
+"disabledElements":["ElementA","ElementB","ElementC"]}</ConfigDataLostPwd></Interface></Para><OutPutFolderProd SubType="base" TypeRD="string">\\srv-spvmsql\Data_Etudes\Commandes\201803570\Produits\REP-2\Rev_0\3D\</OutPutFolderProd><EscalierSource SubType="base" TypeRD="string">\\SRV-SPVMSQL\Data_Escalier_Test\Source\CAO\Moule\Escalier Balancé à fût\Fût seul.par</EscalierSource><SourceMacro SubType="base" TypeRD="string">Source\Macro\</SourceMacro><SortieProduitAsm SubType="base" TypeRD="string" IsEmpty="True"></SortieProduitAsm><Cartouche SubType="structure" TypeRD="Cartouche"><N_AFF SubType="base" TypeRD="string">201803570</N_AFF><REpere SubType="base" TypeRD="string">2</REpere><NomClient SubType="base" TypeRD="string">PIERRE B. SAS</NomClient><FaxClient SubType="base" TypeRD="string">03.29.39.47.73</FaxClient><RespClient SubType="base" TypeRD="string">M  COLIN </RespClient><TelRespClient SubType="base" TypeRD="string">03.29.31.56.32</TelRespClient><Commercial SubType="base" TypeRD="string">SIMON Frederic</Commercial><TelCommercial SubType="base" TypeRD="string">03 88 72 32 98</TelCommercial><FaxCommercial SubType="base" TypeRD="string">03 88 72 43 09</FaxCommercial><NomChantier SubType="base" TypeRD="string">88/Logements/10 logts /CHAUMOUSSEY</NomChantier><NomChantier1 SubType="base" TypeRD="string" IsEmpty="True"></NomChantier1><RespChantier SubType="base" TypeRD="string"></RespChantier><PortRespChantier SubType="base" TypeRD="string"></PortRespChantier><AdrChantier SubType="base" TypeRD="string">RUE GAL LECLERC</AdrChantier><AdrChantier1 SubType="base" TypeRD="string"></AdrChantier1><TelChantier SubType="base" TypeRD="string"></TelChantier><FaxChantier SubType="base" TypeRD="string"></FaxChantier><NomBE SubType="base" TypeRD="string">GALABRUN Marina</NomBE><DateCreation SubType="base" TypeRD="string">15/10/2018</DateCreation><DateLiv SubType="base" TypeRD="date" IsEmpty="True"></DateLiv><TypeEscalier SubType="base" TypeRD="string">Fût Balancé</TypeEscalier><DimEscalier SubType="base" TypeRD="string">15*112</DimEscalier><LibelleEscalier SubType="base" TypeRD="string">Fût Balancé - 15*112</LibelleEscalier><Orientation SubType="base" TypeRD="string">0</Orientation><Nombre SubType="base" TypeRD="string" IsEmpty="True"></Nombre><Usine SubType="base" TypeRD="string">PBM 71</Usine><TelUsine SubType="base" TypeRD="string">Tel_Usine</TelUsine><FaxUsine SubType="base" TypeRD="string">Fax_Usine</FaxUsine><Bat SubType="base" TypeRD="string" IsEmpty="True"></Bat><Cage SubType="base" TypeRD="string" IsEmpty="True"></Cage><Niveau SubType="base" TypeRD="string" IsEmpty="True"></Niveau><CageX SubType="base" TypeRD="double">0</CageX><CageY SubType="base" TypeRD="double">0</CageY><PrefaX SubType="base" TypeRD="double" IsEmpty="True"></PrefaX><PrefaY SubType="base" TypeRD="double" IsEmpty="True"></PrefaY><Levage SubType="base" TypeRD="string">Cablettes de levage</Levage><Rotation SubType="base" TypeRD="string"></Rotation><NbMarche SubType="base" TypeRD="string">0</NbMarche><HtMarche SubType="base" TypeRD="string">0</HtMarche><Nez SubType="base" TypeRD="string">Vif</Nez><Bande SubType="base" TypeRD="string">Aucune</Bande><Giron SubType="base" TypeRD="string">0</Giron><GironReel SubType="base" TypeRD="string" IsEmpty="True"></GironReel><Classe SubType="base" TypeRD="string">XC1 - B</Classe><Localisation SubType="base" TypeRD="string">Intérieur</Localisation><sysmique SubType="base" TypeRD="string">Non</sysmique><Aspect SubType="base" TypeRD="string">Gris</Aspect><N_Aspect SubType="base" TypeRD="string"></N_Aspect><Finition SubType="base" TypeRD="string">Lisse non glissant</Finition><surcharge SubType="base" TypeRD="string">400</surcharge><Ferraillage SubType="base" TypeRD="string">Normal</Ferraillage><Poids SubType="base" TypeRD="string" IsEmpty="True"></Poids><Echelle SubType="base" TypeRD="string" IsEmpty="True"></Echelle><LongMarche SubType="base" TypeRD="string" IsEmpty="True"></LongMarche><REMARQUE SubType="base" TypeRD="string" IsEmpty="True"></REMARQUE><REMARQUE_2 SubType="base" TypeRD="string" IsEmpty="True"></REMARQUE_2><Grue SubType="base" TypeRD="string" IsEmpty="True"></Grue><GrueMobil SubType="base" TypeRD="string" IsEmpty="True"></GrueMobil><Horaire SubType="base" TypeRD="string" IsEmpty="True"></Horaire><stockage SubType="base" TypeRD="string" IsEmpty="True"></stockage><PoidsSection1 SubType="base" TypeRD="string">410 Kg</PoidsSection1><PoidsSection2 SubType="base" TypeRD="string" IsEmpty="True"></PoidsSection2><PoidsSection3 SubType="base" TypeRD="string" IsEmpty="True"></PoidsSection3><IndiceA SubType="base" TypeRD="string" IsEmpty="True"></IndiceA><IndiceB SubType="base" TypeRD="string" IsEmpty="True"></IndiceB><IndiceC SubType="base" TypeRD="string" IsEmpty="True"></IndiceC><IndiceD SubType="base" TypeRD="string" IsEmpty="True"></IndiceD><IndiceE SubType="base" TypeRD="string" IsEmpty="True"></IndiceE><IndiceF SubType="base" TypeRD="string" IsEmpty="True"></IndiceF></Cartouche><ListVarAsm SubType="list" TypeRD="string[]" ItemListTypeName="string" /><ListVaLAsm SubType="list" TypeRD="double[]" ItemListTypeName="double" /><NbSectionMax SubType="base" TypeRD="integer">5</NbSectionMax><NbParam SubType="base" TypeRD="string" IsEmpty="True"></NbParam><CalcEncomb SubType="structure" TypeRD="CalcEncomb"><YFin SubType="base" TypeRD="double" IsEmpty="True"></YFin><YDeb SubType="base" TypeRD="double" IsEmpty="True"></YDeb><ZDeb SubType="base" TypeRD="double" IsEmpty="True"></ZDeb><ZFin SubType="base" TypeRD="double" IsEmpty="True"></ZFin><X SubType="base" TypeRD="double" IsEmpty="True"></X><Y SubType="base" TypeRD="double" IsEmpty="True"></Y><Z SubType="base" TypeRD="double" IsEmpty="True"></Z></CalcEncomb><NbliaisonSansMarch SubType="base" TypeRD="integer">0</NbliaisonSansMarch><NbMorceauLiaison SubType="base" TypeRD="integer" IsEmpty="True"></NbMorceauLiaison><Echelle_DFT SubType="structure" TypeRD="Echelle"><EchelleOrigine SubType="base" TypeRD="double" IsEmpty="True"></EchelleOrigine><Y_DESSUS SubType="base" TypeRD="double" IsEmpty="True"></Y_DESSUS><X_DESSUS SubType="base" TypeRD="double" IsEmpty="True"></X_DESSUS><X_ISO SubType="base" TypeRD="double" IsEmpty="True"></X_ISO><Y_ISO SubType="base" TypeRD="double" IsEmpty="True"></Y_ISO><Y_FACE SubType="base" TypeRD="double" IsEmpty="True"></Y_FACE><X_Face SubType="base" TypeRD="double" IsEmpty="True"></X_Face><OriginY_Face SubType="base" TypeRD="double" IsEmpty="True"></OriginY_Face><OriginX_Face SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Face><OriginX_ISO SubType="base" TypeRD="double" IsEmpty="True"></OriginX_ISO><OriginY_ISO SubType="base" TypeRD="double" IsEmpty="True"></OriginY_ISO><OriginX_Dess SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Dess><OriginY_Dess SubType="base" TypeRD="double" IsEmpty="True"></OriginY_Dess><ScaleFace SubType="base" TypeRD="double" IsEmpty="True"></ScaleFace><ScaleDess SubType="base" TypeRD="double" IsEmpty="True"></ScaleDess><ScaleIso SubType="base" TypeRD="double" IsEmpty="True"></ScaleIso><WidthFace SubType="base" TypeRD="double" IsEmpty="True"></WidthFace><WidthDess SubType="base" TypeRD="double" IsEmpty="True"></WidthDess><WidthIso SubType="base" TypeRD="double" IsEmpty="True"></WidthIso><HeightFace SubType="base" TypeRD="double" IsEmpty="True"></HeightFace><HeightDess SubType="base" TypeRD="double" IsEmpty="True"></HeightDess><HeightIso SubType="base" TypeRD="double" IsEmpty="True"></HeightIso></Echelle_DFT><ListSketchMask SubType="list" TypeRD="string[]" ItemListTypeName="string" /><ListSketchMaskPansCoupes SubType="list" TypeRD="string[]" ItemListTypeName="string" /><NbBul SubType="base" TypeRD="integer" IsEmpty="True"></NbBul><NbBulMarche SubType="base" TypeRD="integer" IsEmpty="True"></NbBulMarche><FormatPapierOld SubType="base" TypeRD="string">A4</FormatPapierOld><CartoucheCoffrage SubType="base" TypeRD="string" IsEmpty="True"></CartoucheCoffrage><SaveCartouche SubType="structure" TypeRD="SaveCartouche"><N_AFF SubType="base" TypeRD="string" IsEmpty="True"></N_AFF><REpere SubType="base" TypeRD="string" IsEmpty="True"></REpere><NomClient SubType="base" TypeRD="string" IsEmpty="True"></NomClient><FaxClient SubType="base" TypeRD="string" IsEmpty="True"></FaxClient><RespClient SubType="base" TypeRD="string" IsEmpty="True"></RespClient><TelRespClient SubType="base" TypeRD="string" IsEmpty="True"></TelRespClient><Commercial SubType="base" TypeRD="string" IsEmpty="True"></Commercial><TelCommercial SubType="base" TypeRD="string" IsEmpty="True"></TelCommercial><FaxCommercial SubType="base" TypeRD="string" IsEmpty="True"></FaxCommercial><NomChantier SubType="base" TypeRD="string" IsEmpty="True"></NomChantier><NomChantier1 SubType="base" TypeRD="string" IsEmpty="True"></NomChantier1><RespChantier SubType="base" TypeRD="string" IsEmpty="True"></RespChantier><PortRespChantier SubType="base" TypeRD="string" IsEmpty="True"></PortRespChantier><AdrChantier SubType="base" TypeRD="string" IsEmpty="True"></AdrChantier><AdrChantier1 SubType="base" TypeRD="string" IsEmpty="True"></AdrChantier1><TelChantier SubType="base" TypeRD="string" IsEmpty="True"></TelChantier><FaxChantier SubType="base" TypeRD="string" IsEmpty="True"></FaxChantier><NomBE SubType="base" TypeRD="string" IsEmpty="True"></NomBE><DateCreation SubType="base" TypeRD="string" IsEmpty="True"></DateCreation><DateLiv SubType="base" TypeRD="date" IsEmpty="True"></DateLiv><TypeEscalier SubType="base" TypeRD="string" IsEmpty="True"></TypeEscalier><DimEscalier SubType="base" TypeRD="string" IsEmpty="True"></DimEscalier><Nombre SubType="base" TypeRD="string" IsEmpty="True"></Nombre><Usine SubType="base" TypeRD="string" IsEmpty="True"></Usine><TelUsine SubType="base" TypeRD="string" IsEmpty="True"></TelUsine><FaxUsine SubType="base" TypeRD="string" IsEmpty="True"></FaxUsine><Bat SubType="base" TypeRD="string" IsEmpty="True"></Bat><Cage SubType="base" TypeRD="string" IsEmpty="True"></Cage><Niveau SubType="base" TypeRD="string" IsEmpty="True"></Niveau><CageX SubType="base" TypeRD="double" IsEmpty="True"></CageX><CageY SubType="base" TypeRD="double" IsEmpty="True"></CageY><PrefaX SubType="base" TypeRD="double" IsEmpty="True"></PrefaX><PrefaY SubType="base" TypeRD="double" IsEmpty="True"></PrefaY><Levage SubType="base" TypeRD="string" IsEmpty="True"></Levage><Rotation SubType="base" TypeRD="string" IsEmpty="True"></Rotation><NbMarche SubType="base" TypeRD="string" IsEmpty="True"></NbMarche><HtMarche SubType="base" TypeRD="string" IsEmpty="True"></HtMarche><Nez SubType="base" TypeRD="string" IsEmpty="True"></Nez><Giron SubType="base" TypeRD="string" IsEmpty="True"></Giron><Classe SubType="base" TypeRD="string" IsEmpty="True"></Classe><Localisation SubType="base" TypeRD="string" IsEmpty="True"></Localisation><sysmique SubType="base" TypeRD="string" IsEmpty="True"></sysmique><Aspect SubType="base" TypeRD="string" IsEmpty="True"></Aspect><N_Aspect SubType="base" TypeRD="string" IsEmpty="True"></N_Aspect><Finition SubType="base" TypeRD="string" IsEmpty="True"></Finition><surcharge SubType="base" TypeRD="string" IsEmpty="True"></surcharge><Ferraillage SubType="base" TypeRD="string" IsEmpty="True"></Ferraillage><Poids SubType="base" TypeRD="string" IsEmpty="True"></Poids><Echelle SubType="base" TypeRD="string" IsEmpty="True"></Echelle><LongMarche SubType="base" TypeRD="string" IsEmpty="True"></LongMarche><REMARQUE SubType="base" TypeRD="string" IsEmpty="True"></REMARQUE><REMARQUE_2 SubType="base" TypeRD="string" IsEmpty="True"></REMARQUE_2><Grue SubType="base" TypeRD="string" IsEmpty="True"></Grue><GrueMobil SubType="base" TypeRD="string" IsEmpty="True"></GrueMobil><Horaire SubType="base" TypeRD="string" IsEmpty="True"></Horaire><stockage SubType="base" TypeRD="string" IsEmpty="True"></stockage><PoidsSection1 SubType="base" TypeRD="string" IsEmpty="True"></PoidsSection1><PoidsSection2 SubType="base" TypeRD="string" IsEmpty="True"></PoidsSection2><PoidsSection3 SubType="base" TypeRD="string" IsEmpty="True"></PoidsSection3><IndiceA SubType="base" TypeRD="string" IsEmpty="True"></IndiceA><IndiceB SubType="base" TypeRD="string" IsEmpty="True"></IndiceB><IndiceC SubType="base" TypeRD="string" IsEmpty="True"></IndiceC><IndiceD SubType="base" TypeRD="string" IsEmpty="True"></IndiceD><IndiceE SubType="base" TypeRD="string" IsEmpty="True"></IndiceE><IndiceF SubType="base" TypeRD="string" IsEmpty="True"></IndiceF></SaveCartouche><CalcEncombSymbole SubType="structure" TypeRD="CalcEncombSymbole"><X_SYMBOLE_10 SubType="base" TypeRD="double" IsEmpty="True"></X_SYMBOLE_10><X_SYMBOLE_20_30_40 SubType="base" TypeRD="double" IsEmpty="True"></X_SYMBOLE_20_30_40><X_SYMBOLE_50_60 SubType="base" TypeRD="double" IsEmpty="True"></X_SYMBOLE_50_60><X_SYMBOLE_70_80 SubType="base" TypeRD="double" IsEmpty="True"></X_SYMBOLE_70_80><Y_SYMBOLE_10_20 SubType="base" TypeRD="double" IsEmpty="True"></Y_SYMBOLE_10_20><Y_SYMBOLE_30_40_50_60_70_80 SubType="base" TypeRD="double" IsEmpty="True"></Y_SYMBOLE_30_40_50_60_70_80><OriginX_Symbole_11_12_13_14_15_16_33_34_45_46_18_58 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_11_12_13_14_15_16_33_34_45_46_18_58><OriginX_Symbole_22_23_24_44_38_78 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_22_23_24_44_38_78><OriginX_Symbole_25_26_55_56 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_25_26_55_56><OriginX_Symbole_35_36_66 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_35_36_66><OriginX_Symbole_28_68 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_28_68><OriginX_Symbole_48_88 SubType="base" TypeRD="double" IsEmpty="True"></OriginX_Symbole_48_88><OriginY_Symbole_11_12_13_14_15_16_22_23_24_25_26_35_36_18_28_38_48 SubType="base" TypeRD="double" IsEmpty="True"></OriginY_Symbole_11_12_13_14_15_16_22_23_24_25_26_35_36_18_28_38_48><OriginY_Symbole_33_34_44_45_46_55_56_66_58_68_78_88 SubType="base" TypeRD="double" IsEmpty="True"></OriginY_Symbole_33_34_44_45_46_55_56_66_58_68_78_88></CalcEncombSymbole><FormatCote SubType="structure" TypeRD="FormatCote"><NbDigit SubType="base" TypeRD="integer" IsEmpty="True"></NbDigit><DimChar SubType="base" TypeRD="double">0.17</DimChar><DimFleche SubType="base" TypeRD="double">0.15</DimFleche><ValCote SubType="base" TypeRD="double" IsEmpty="True"></ValCote><EchelleVue SubType="base" TypeRD="double">0.02</EchelleVue><prop SubType="base" TypeRD="string" IsEmpty="True"></prop><COUNT SubType="base" TypeRD="integer">0</COUNT><CptCote SubType="base" TypeRD="integer" IsEmpty="True"></CptCote><NbCote SubType="base" TypeRD="integer">5</NbCote><Decal SubType="base" TypeRD="integer" IsEmpty="True"></Decal><FieldCalc SubType="base" TypeRD="string" IsEmpty="True"></FieldCalc><DimCoteStr SubType="structure" TypeRD="DimCoteStr"><DimA SubType="base" TypeRD="string" IsEmpty="True"></DimA><DimB SubType="base" TypeRD="string" IsEmpty="True"></DimB><DimC SubType="base" TypeRD="string" IsEmpty="True"></DimC><DimD SubType="base" TypeRD="string" IsEmpty="True"></DimD><DimE SubType="base" TypeRD="string" IsEmpty="True"></DimE></DimCoteStr><DimCoteDbl SubType="structure" TypeRD="DimCoteDbl"><DimA SubType="base" TypeRD="double" IsEmpty="True"></DimA><DimB SubType="base" TypeRD="double" IsEmpty="True"></DimB><DimC SubType="base" TypeRD="double" IsEmpty="True"></DimC><DimD SubType="base" TypeRD="double" IsEmpty="True"></DimD><DimE SubType="base" TypeRD="double" IsEmpty="True"></DimE></DimCoteDbl><DimCoteAsmStr SubType="structure" TypeRD="DimCoteAsmStr"><Marche1_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche1_Cote><Marche1b_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche1b_Cote><Marche2_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche2_Cote><Marche3_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche3_Cote><Marche4_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche4_Cote><Marche5_Cote SubType="base" TypeRD="string" IsEmpty="True"></Marche5_Cote></DimCoteAsmStr><DimCoteAsmDbl SubType="structure" TypeRD="DimCoteAsmDbl"><Marche1_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche1_Cote><Marche1b_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche1b_Cote><Marche2_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche2_Cote><Marche3_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche3_Cote><Marche4_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche4_Cote><Marche5_Cote SubType="base" TypeRD="double" IsEmpty="True"></Marche5_Cote></DimCoteAsmDbl><ListNomCoteAsm SubType="list" TypeRD="string[]" ItemListTypeName="string" /><ListValCoteAsm SubType="list" TypeRD="string[]" ItemListTypeName="string" /><IDNomCoteAsm SubType="base" TypeRD="integer" IsEmpty="True"></IDNomCoteAsm></FormatCote><FormatCoteCalc SubType="structure" TypeRD="FormatCoteCalc" /><RetourLigne SubType="structure" TypeRD="RetourLigne"><TextOrigin SubType="base" TypeRD="string" IsEmpty="True"></TextOrigin><CountEspace SubType="base" TypeRD="integer" IsEmpty="True"></CountEspace><NbCharLigne SubType="base" TypeRD="integer" IsEmpty="True"></NbCharLigne><SchemaTemplate SubType="base" TypeRD="string" IsEmpty="True"></SchemaTemplate><Schema SubType="base" TypeRD="string" IsEmpty="True"></Schema><TextAnalyse SubType="base" TypeRD="string" IsEmpty="True"></TextAnalyse><TextTransform SubType="base" TypeRD="string" IsEmpty="True"></TextTransform><TextLigne SubType="base" TypeRD="string" IsEmpty="True"></TextLigne><TextFormat SubType="base" TypeRD="string" IsEmpty="True"></TextFormat><LectureProp SubType="base" TypeRD="string" IsEmpty="True"></LectureProp><TblNbCharProp SubType="list" TypeRD="string[][]" ItemListTypeName="string[]" /><ListPropCartouche SubType="list" TypeRD="string[]" ItemListTypeName="string" /><CalcNameField SubType="base" TypeRD="string" IsEmpty="True"></CalcNameField><CptProp SubType="base" TypeRD="integer" IsEmpty="True"></CptProp><NameSource SubType="base" TypeRD="string" IsEmpty="True"></NameSource></RetourLigne><ParamFer SubType="base" TypeRD="string" IsEmpty="True"></ParamFer><ListParamFer SubType="list" TypeRD="string[]" ItemListTypeName="string" /><StrParamFer SubType="base" TypeRD="string" IsEmpty="True"></StrParamFer><ListStrParamFer SubType="list" TypeRD="string[]" ItemListTypeName="string" /><TypeParamValue SubType="base" TypeRD="double" IsEmpty="True"></TypeParamValue><TypeParamValue2 SubType="base" TypeRD="double" IsEmpty="True"></TypeParamValue2><TypeParam SubType="base" TypeRD="string" IsEmpty="True"></TypeParam><FerraillageParam SubType="structure" TypeRD="FerraillageParam"><ParamNiveau SubType="base" TypeRD="string" IsEmpty="True"></ParamNiveau><Niveau1 SubType="base" TypeRD="string" IsEmpty="True"></Niveau1><Niveau2 SubType="base" TypeRD="string" IsEmpty="True"></Niveau2><Niveau3 SubType="base" TypeRD="string" IsEmpty="True"></Niveau3><Niveau4 SubType="base" TypeRD="string" IsEmpty="True"></Niveau4><Niveau5 SubType="base" TypeRD="string" IsEmpty="True"></Niveau5><Niveau6 SubType="base" TypeRD="string" IsEmpty="True"></Niveau6><Niveau7 SubType="base" TypeRD="string" IsEmpty="True"></Niveau7><Niveau8 SubType="base" TypeRD="string" IsEmpty="True"></Niveau8><Niveau9 SubType="base" TypeRD="string" IsEmpty="True"></Niveau9><DossierFeraillage SubType="base" TypeRD="string" IsEmpty="True"></DossierFeraillage><FileFeraillage SubType="base" TypeRD="string" IsEmpty="True"></FileFeraillage></FerraillageParam><PropCartouche SubType="base" TypeRD="string" IsEmpty="True"></PropCartouche><ListSketchMaskMem SubType="list" TypeRD="string[]" ItemListTypeName="string" /><ErrCartoucheFerr SubType="base" TypeRD="boolean" IsEmpty="True"></ErrCartoucheFerr><EscalierSourceLF SubType="base" TypeRD="string" IsEmpty="True"></EscalierSourceLF></VARS>
