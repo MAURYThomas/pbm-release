@@ -2,8 +2,8 @@ option batch on
 option confirm off
 option transfer binary
 open sftp://pbmdraftsp-be:8SOMT1LMt3@sftp.pbm-draftbox.fr:22 -hostkey=*
-mkdir 845215464
-cd 845215464
-put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\3\ferraillage.pdf
-put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\3\coffrage.pdf
+mkdir 
+cd \\SRV-SPVMSQL\Data_Etudes\Commandes\201104117\Produits\REP-1\Rev_0
+put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\3\
+put C:\Users\thomas.maury\Documents\pbm-release\scripts\batch\3\
 exit
