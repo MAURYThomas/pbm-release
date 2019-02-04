@@ -1,0 +1,16 @@
+option batch on
+option confirm off
+option transfer binary
+open sftp://pbmdraftsp-be:8SOMT1LMt3@sftp.pbm-draftbox.fr:22 -hostkey=*
+MKDIR 110000006
+CD 110000006
+MKDIR Produits
+CD Produits
+MKDIR REP-17
+CD REP-17
+MKDIR Rev_0
+CD Rev_0
+LCD \\SRV-SPVMSQL\Data_Etudes\Commandes\110000006\Produits\REP-17\Rev_0
+PUT 110000006-Plan17-FERR-Rev_0.pdf
+PUT 110000006-Plan17-COFF-Rev_0.pdf
+EXIT

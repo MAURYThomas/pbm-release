@@ -1,8 +1,0 @@
-open sftp.pbm-draftbox.fr
-pbmdraftsp-be
-8SOMT1LMt3
-mkdir 110000012
-cd 110000012
-put coffrage.pdf
-put ferraillage.pdf
-quit
