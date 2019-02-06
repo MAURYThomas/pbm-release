@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+  math.cpp
+c:\users\thomas.maury\documents\pbm-release\c++\oc\consoleapplication1\consoleapplication1\math.cpp(9): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  Génération de code en cours...
